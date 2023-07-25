@@ -2,6 +2,8 @@ import java.util.Scanner;
 
 public class SumOfDigit {
 	static int sum=0;
+	
+	static int i;
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
